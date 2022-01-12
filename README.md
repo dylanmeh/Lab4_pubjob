@@ -1,2 +1,2 @@
 # Lab4_pubjob
-Lab 4 publishing event job
+Lab 4 publishing event job.
