@@ -20,7 +20,7 @@ spec:
         stage('Sending notification') {
             steps {
                 echo 'sending json data for unit testing in downstream job'
-                publishEvent jsonEvent('{"labs":[{"lab1":"1"}],"unitTestEnable":"true"}')
+                publishEvent jsonEvent('{"labs":[{"lab7":"7"}],"unitTestEnable":"true"}')
 
             }
         }
